@@ -8,7 +8,10 @@
 
 🚀 Exploring software architecture & backend best practices
 
+---
+
 🛠️ Tech Stack
+
 Languages: Java, SQL
 
 Backend: Spring Boot, REST APIs (learning)
@@ -17,6 +20,8 @@ Databases: MySQL, PL/SQL
 
 Version Control: Git & GitHub
 
+---
+
 📈 What I’m Working On
 
  Strengthening my Java programming skills
@@ -24,6 +29,8 @@ Version Control: Git & GitHub
  Building small backend projects & APIs
  
  Learning clean code & software design principles
+
+---
 
 📫 Connect with Me
 
